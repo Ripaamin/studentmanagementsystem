@@ -1146,6 +1146,7 @@ public class dashboardController implements Initializable {
         studentGrade_course.setText("");
         studentGrade_firstSem.setText("");
         studentGrade_secondSem.setText("");
+        studentGrade_thirdSem.setText("");
       
         
     }
